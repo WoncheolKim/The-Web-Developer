@@ -3,6 +3,8 @@ h1 {
   font-weight: normal;
   text-decoration: orange underline wavy;
   letter-spacing: 15px;
+  font-size: 60px;
+  font-family: monospace;
 }
 
 a {
