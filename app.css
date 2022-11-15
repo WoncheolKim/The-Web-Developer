@@ -1,12 +1,16 @@
-* {
+/* * {
   color: pink;
+} */
+
+body {
+  background-color: #f1faee;
 }
 
-p {
+button {
   font-size: 30px;
+  background-color: #a8dadc;
 }
 
 h1, h2 {
-  color: red;
-  text-align: center;
+  color: #1d3557;
 }
