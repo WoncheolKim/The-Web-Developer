@@ -1,16 +1,3 @@
-h1 {
-  text-align: center;
-  font-weight: normal;
-  text-decoration: orange underline wavy;
-  letter-spacing: 15px;
-  font-size: 60px;
-  font-family: monospace;
-}
-
-a {
-  text-decoration: none;
-}
-
-p {
-  line-height: 1.8;
+* {
+  color: pink;
 }
