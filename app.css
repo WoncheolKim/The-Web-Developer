@@ -29,3 +29,15 @@ span {
   color: #f1faee;
   font-size: 20px;
 }
+
+.post a {
+  color: #457b9d;
+}
+
+footer a {
+  color: #e63946;
+}
+
+input + button {
+  background-color: pink;
+}
