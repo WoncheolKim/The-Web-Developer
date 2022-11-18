@@ -41,3 +41,7 @@ footer a {
 input + button {
   background-color: pink;
 }
+
+footer > a {
+  color: brown;
+}
