@@ -32,6 +32,8 @@ span {
 
 .post a {
   color: #457b9d;
+  font-weight: 700;
+  text-decoration: none;
 }
 
 footer a {
@@ -50,7 +52,11 @@ input[type="password"] {
   color: greenyellow;
 }
 
-button:hover {
+.post button:hover {
   background-color: red;
   color: #f1faee;
+}
+
+a:hover {
+  text-decoration: line-through;
 }
