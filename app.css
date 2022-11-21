@@ -49,3 +49,8 @@ footer > a {
 input[type="password"] {
   color: greenyellow;
 }
+
+button:hover {
+  background-color: red;
+  color: #f1faee;
+}
