@@ -69,6 +69,10 @@ a:hover {
   background-color: #dfe8dc;
 }
 
-h2:first-letter {
+h2::first-letter {
   font-size: 50px;
+}
+
+p::selection {
+  background-color: #fcbf49;
 }
