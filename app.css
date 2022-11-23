@@ -8,3 +8,15 @@ h1 {
   background-color: pink;
   width: 100px;
 }
+
+#one {
+  background-color: red;
+}
+
+#two {
+  background-color: yellow;
+}
+
+#three {
+  background-color: blue;
+}
