@@ -11,6 +11,10 @@ h1 {
 
 #one {
   background-color: red;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  box-sizing: border-box;
 }
 
 #two {
