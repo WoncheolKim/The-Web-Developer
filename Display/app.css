@@ -1,9 +1,6 @@
-h1 {
-  background-color: bisque;
-  border: 1px solid black;
-}
-
 span {
   background-color: paleturquoise;
   border: 1px solid black;
+  width: 500px;
+  padding: 10px;
 }
