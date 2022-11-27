@@ -30,13 +30,13 @@ p {
 }
 
 article {
-  font-size: 20px;
+  font-size: 50px;
 }
 
 button {
-  font-size: 30px;
-  padding: 0 30px;
-  border-radius: 15px;
+  font-size: 1em;
+  padding: 0 1em;
+  border-radius: 0.5em;
   background-color: aquamarine;
   color: white
 }
