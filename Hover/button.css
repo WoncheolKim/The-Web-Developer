@@ -12,3 +12,8 @@ button {
   color: #ffa260;
   border: 2px solid;
 }
+
+button:hover {
+  border-color: #f1ff5c;
+  color: white;
+}
