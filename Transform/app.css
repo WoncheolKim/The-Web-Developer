@@ -6,7 +6,17 @@ h1 {
   width: 300px;
   font-size: 1.8em;
   text-align: center;
-  margin: 20px;
+  margin: 20px auto;
   font-family: 'Courier New', Courier, monospace;
   font-weight: lighter;;
+}
+
+h1:nth-of-type(2n) {
+  background-color: #e9c46a;
+}
+h1:nth-of-type(3n) {
+  background-color: #f4a261;
+}
+h1:nth-of-type(4n) {
+  background-color: #e76f51;
 }
