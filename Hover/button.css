@@ -1,8 +1,14 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
   background-color: #151b29;
+}
+
+button {
+  background: none;
+  color: #ffa260;
+  border: 2px solid;
 }
