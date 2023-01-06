@@ -11,3 +11,7 @@ body {
 #mainNavbar .nav-link {
   color: white;
 }
+
+#mainNavbar .navber-brand {
+  color: #EA1C2C;
+}
