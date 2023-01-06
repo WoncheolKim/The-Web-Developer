@@ -12,6 +12,10 @@ body {
   color: white;
 }
 
+#mainNavbar .nav-link:hover {
+  color: #EA1C2C;
+}
+
 #mainNavbar .navber-brand {
   color: #EA1C2C;
 }
