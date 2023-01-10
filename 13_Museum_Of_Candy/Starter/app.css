@@ -23,3 +23,7 @@ body {
 #headingGroup span {
   color: #EA1C2C;
 }
+
+#headingGroup h1 {
+  font-weight: 100;
+}
