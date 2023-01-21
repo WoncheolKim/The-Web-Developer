@@ -1,14 +1,14 @@
-const dayOfWeek = prompt('Enter A day').toLowerCase;
+// const dayOfWeek = prompt('Enter A day').toLowerCase;
 
-if (dayOfWeek === 'Monday') {
-  console.log("I hate Monday!");
-} else if (dayOfWeek === 'Saturday') {
-  console.log("I love Saturday");
-} else if (dayOfWeek === "Friday") {
-  console.log("Friday are decent, especially after work!");
-} else {
-  console.log("MEH");
-}
+// if (dayOfWeek === 'Monday') {
+//   console.log("I hate Monday!");
+// } else if (dayOfWeek === 'Saturday') {
+//   console.log("I love Saturday");
+// } else if (dayOfWeek === "Friday") {
+//   console.log("Friday are decent, especially after work!");
+// } else {
+//   console.log("MEH");
+// }
 
 // 0-5 Free
 // 5-10 Child $10
@@ -24,3 +24,11 @@ if (dayOfWeek === 'Monday') {
 // } else if (age < 65) {
 //   console.log("You are an adult. You pay $20");
 // }
+
+let random = Math.random();
+if (random < 0.5) {
+  console.log("Less than 0.5");
+} else {
+  console.log("Greater than 0.5");
+}
+console.log(random);
