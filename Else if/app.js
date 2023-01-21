@@ -1,4 +1,4 @@
-const dayOfWeek = 'Tuesday';
+const dayOfWeek = prompt('Enter A day').toLowerCase;
 
 if (dayOfWeek === 'Monday') {
   console.log("I hate Monday!");
@@ -6,11 +6,7 @@ if (dayOfWeek === 'Monday') {
   console.log("I love Saturday");
 } else if (dayOfWeek === "Friday") {
   console.log("Friday are decent, especially after work!");
-} else if (dayOfWeek === "Tuesday") {
-  console.log("MEH");
-} else if (dayOfWeek === "Wednesday") {
-  console.log("MEH");
-} else if (dayOfWeek === "Thursday") {
+} else {
   console.log("MEH");
 }
 
