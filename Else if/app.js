@@ -15,20 +15,22 @@
 // 11-65 Adult $20
 // 65+ Senior $10
 
-// const age = 8;
+const age = 8;
 
-// if (age < 5) {
-//   console.log("You are a baby. You get in for free!");
-// } else if (age < 10) {
-//   console.log("You are a child. You pay $10");
-// } else if (age < 65) {
-//   console.log("You are an adult. You pay $20");
-// }
-
-let random = Math.random();
-if (random < 0.5) {
-  console.log("Less than 0.5");
+if (age < 5) {
+  console.log("You are a baby. You get in for free!");
+} else if (age < 10) {
+  console.log("You are a child. You pay $10");
+} else if (age < 65) {
+  console.log("You are an adult. You pay $20");
 } else {
-  console.log("Greater than 0.5");
+  console.log("You are a senior. You pay $10");
 }
-console.log(random);
+
+// let random = Math.random();
+// if (random < 0.5) {
+//   console.log("Less than 0.5");
+// } else {
+//   console.log("Greater than 0.5");
+// }
+// console.log(random);
